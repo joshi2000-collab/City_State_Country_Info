@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/City_State_Country_Info/static/css/main.80be725b.css",
+    "main.js": "/City_State_Country_Info/static/js/main.d6342c0e.js",
+    "static/js/787.805a787c.chunk.js": "/City_State_Country_Info/static/js/787.805a787c.chunk.js",
+    "static/media/garrett-parker-DlkF4-dbCOU.jpg": "/City_State_Country_Info/static/media/garrett-parker-DlkF4-dbCOU.f62937ab7e0a992d5bf8.jpg",
+    "index.html": "/City_State_Country_Info/index.html",
+    "main.80be725b.css.map": "/City_State_Country_Info/static/css/main.80be725b.css.map",
+    "main.d6342c0e.js.map": "/City_State_Country_Info/static/js/main.d6342c0e.js.map",
+    "787.805a787c.chunk.js.map": "/City_State_Country_Info/static/js/787.805a787c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.80be725b.css",
+    "static/js/main.d6342c0e.js"
+  ]
+}
